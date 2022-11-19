@@ -5,8 +5,6 @@
 
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif" />
-
 ## Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning HTML5&CSS3, JavaScript, C++ and Python .
